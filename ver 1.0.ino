@@ -1,4 +1,4 @@
-// vsersion 003
+// vsersion 1.03
 //RS485
 //DI  TX0
 //DE  3
